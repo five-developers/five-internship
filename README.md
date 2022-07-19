@@ -11,11 +11,11 @@ Write an API with any programming language to codify sentences using the morse c
 ### Example 1:
 
 > **Input:** FIVE VALIDATION  
-> **Output:** ..-. .. ...- . / ...- .- .-.. .. -.. .- - .. --- -.
+> **Output:** ..-. .. ...- . | ...- .- .-.. .. -.. .- - .. --- -.
 
 ### Example 2:
 
-> **Input:** -- --- .-. ... . / -.-. --- -.. .  
+> **Input:** -- --- .-. ... . | -.-. --- -.. .  
 > **Output:** MORSE CODE
 
 
