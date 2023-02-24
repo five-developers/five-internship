@@ -4,31 +4,29 @@ Hello!
 
 #### We are happy that you are interested in joining our team! We created a challenge based on some skills we use in our daily lives to get to know a little more about you.
 
-# Morse Code
+# Lottery draw
 
-Write an API with any programming language to codify sentences using the morse code 
+Write an API using the Java language to manage a lottery draw
 
-### Example 1:
+Your application should have the following rules:
 
-> **Input:** FIVE VALIDATION  
-> **Output:** ..-. .. ...- . | ...- .- .-.. .. -.. .- - .. --- -.
+* The users should have the option to register new
+tickets and view all the tickets already registered in their name;
+* The price of each ticket should be R$5,00;
+* Each bet must contain 5 numbers, but it is possible to add more
+numbers at an additional cost of 10% over the previous price;
+* The ticket price will be taxed at 15%;
+* The numbers available for bet selection must be from 1 to 10;
+* The application must allow the user to choose his/her own numbers or
+generate random numbers for betting;
+* On consulting the result of the lottery, the system must return the
+winning user and the total sum and the amount that the winner will receive
 
-### Example 2:
-
-> **Input:** -- --- .-. ... . | -.-. --- -.. .  
-> **Output:** MORSE CODE
-
-
-Your application should follow the table bellow:
-
-![codigo-morse](https://user-images.githubusercontent.com/65623300/179625564-c295a2d3-9ba6-40e3-8841-9c81b6970eca.jpg)
-
-* Use space to separate letters and pipe (|) to separate words
-* We recommend to use [Postman](https://www.postman.com/) software to test you application 
+> * We recommend to use [Postman](https://www.postman.com/) software to test you application 
 
 
 #### Bonus (optional) :star2:
-Write unit tests using any programming language
+Write unit tests using [JUnit](https://junit.org/junit5/)
 
 
 # Submission
